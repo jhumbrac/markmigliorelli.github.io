@@ -16,13 +16,12 @@ h1 {
 	color: #fff;
 }
 section {
-	margin-top: 350;
-	margin-left: 125;
+	margin: 350 0 0 125;
 }
 .spacing {
-	margin-top: 20;
+	margin: 20 0 0 0;
 }
 .appspacing {
-	margin-top: 15
+	margin: 15 0 0 0;
 }
 
